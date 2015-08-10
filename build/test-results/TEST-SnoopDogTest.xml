@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SnoopDogTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2015-08-10T23:00:55" hostname="epicodus-106.local" time="0.002">
+<testsuite name="SnoopDogTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2015-08-10T23:22:43" hostname="epicodus-106.local" time="0.001">
   <properties/>
   <testcase name="snoopWords_returnUserInput_wordDoesntChage" classname="SnoopDogTest" time="0.001"/>
   <testcase name="snoopWords_doesNotReplaceFirstS_firstLetterSame" classname="SnoopDogTest" time="0.0"/>

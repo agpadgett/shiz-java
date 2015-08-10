@@ -17,6 +17,6 @@ public void snoopWords_returnUserInput_wordDoesntChage(){
 
 @Test public void snoopWords_doesNotReplaceFirstS_firstLetterSame(){
     SnoopDog testSnoop = new SnoopDog();
-    assertEquals("sunzhine", testSnoop.snoopWords("sunshine"));
+    assertEquals("rozez", testSnoop.snoopWords("roses"));
     }
 }
