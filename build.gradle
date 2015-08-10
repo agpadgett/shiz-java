@@ -1,0 +1,14 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+archivesBaseName = "snoop-dog"
+version = '1.0'
+mainClassName = "SnoopDog"
+
+repositories {
+ mavenCentral()
+}
+
+dependencies {
+  testCompile group: 'junit', name: 'junit', version: '4.+'
+}
